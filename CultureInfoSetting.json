@@ -1,0 +1,22 @@
+{
+	"Region": "KVN",
+	"AppLang": [
+		"en-US",
+		"ko-KR",
+		"ja-JP",
+		"zh-CN"
+	],
+	"ReportLang": [
+		"vi-VN",
+		"en-US",
+		"ko-KR",
+		"ja-JP",
+		"zh-CN"
+	],
+	"URL": [
+		"vi-VN",
+		"ko-KR",
+		"ja-JP",
+		"zh-CN"
+	]
+}
